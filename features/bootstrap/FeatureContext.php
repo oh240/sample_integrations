@@ -1,4 +1,4 @@
-<?php # features/bootstrap/FeatureContext.php
+œ<?php # features/bootstrap/FeatureContext.php
 
 use Behat\Behat\Context\ClosuredContextInterface;
 use Behat\MinkExtension\Context\MinkContext;
