@@ -11,11 +11,12 @@
     ],
     "require": {
         "cakephp/cakephp": "2.5.*",
-        "josegonzalez/cakephp-environments": "1.0.0"
+        "josegonzalez/cakephp-environments": "1.0.0",
+        "cakedc/migrations": "~2.3"
     },
     "require-dev": {
         "pear/console_commandline": "@dev",
-        "pear/pear_exception": "@dev",
+        /*"pear/pear_exception": "@dev",*/
         "sizuhiko/Bdd": "dev-master",
         "behat/mink-goutte-driver": "*"
     }
